@@ -3,7 +3,7 @@ This project is a tool that takes a tar compressed file containing euckr-encoded
 
 ## Usage
 1. Clone the repository.
-git clone https://github.com/your_username/untar_euckr_to_utf8.git
+git clone https://github.com/daystar7777/untar_euckr_to_utf8.git
 
 2. Install the Python libraries.
 pip install -r requirements.txt

@@ -5,7 +5,7 @@
 ## 사용법
 
 1. 이 저장소를 복제합니다.
-git clone https://github.com/your_username/euckr-to-utf8-tar-converter.git
+git clone https://github.com/daystar7777/euckr-to-utf8-tar-converter.git
 
 
 2. 파이썬 라이브러리를 설치합니다.
